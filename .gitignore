@@ -1,12 +1,32 @@
-# Atari 2600 (Stella) support for multiple assemblers
-# - DASM
-# - CC65
+# Prerequisites
+*.d
 
-# Assembled binaries and object directories
-obj/
-a.out
-*.bin
-*.a26
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# Add in special Atari 7800-based binaries for good measure
-*.a78
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
