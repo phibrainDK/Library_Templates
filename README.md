@@ -1,2 +1,2 @@
 # Library_Templates
-Collection of some algorithms used in competitive programing
+Collection of some algorithms used in competitive programming
